@@ -1,0 +1,240 @@
+{
+  "menus": [
+    {
+      "id": "1",
+      "title": "Meatloaf",
+      "body": "Lorem ipsum Triforce sit amet, Linkus Hyruleus tempus Ganondorf.",
+      "priority": "low",
+      "image": "home.jpg"
+    },
+    {
+      "id": "2",
+      "title": "pasta",
+      "body": "Lorem ipsum Triforce sit amet, Linkus Hyruleus tempus Ganondorf.",
+      "priority": "medium",
+      "user_email": "mario@netninja.dev",
+      "image": "s.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Chicago Deep-Dish",
+      "body": "Lorem ipsum Triforce sit amet, Linkus Hyruleus tempus Ganondorf.",
+      "priority": "high",
+      "user_email": "peach@netninja.dev",
+      "image": "f.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Hamburger",
+      "body": "Lorem ipsum Triforce sit amet, Linkus Hyruleus tempus Ganondorf.",
+      "priority": "low",
+      "image": "pasta.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Special burger",
+      "body": "Lorem ipsum Triforce sit amet, Linkus Hyruleus tempus Ganondorf.",
+      "priority": "medium",
+      "user_email": "mario@netninja.dev",
+      "image": "home.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Tuna Pizza",
+      "body": "Lorem ipsum Triforce sit amet, Linkus Hyruleus tempus Ganondorf.",
+      "priority": "high",
+      "user_email": "peach@netninja.dev",
+      "image": "home.jpg"
+    }
+  ],
+  "cart": [
+    {
+      "id": "2",
+      "title": "Add in a new stylesheet",
+      "body": "Lorem ipsum Triforce sit amet, Linkus Hyruleus tempus Ganondorf.",
+      "priority": "medium",
+      "user_email": "mario@netninja.dev",
+      "image": "s.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Chicago Deep-Dish",
+      "body": "Lorem ipsum Triforce sit amet, Linkus Hyruleus tempus Ganondorf.",
+      "priority": "high",
+      "user_email": "peach@netninja.dev",
+      "image": "f.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Tuna Pizza",
+      "body": "Lorem ipsum Triforce sit amet, Linkus Hyruleus tempus Ganondorf.",
+      "priority": "high",
+      "user_email": "peach@netninja.dev",
+      "image": "home.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Tuna Pizza",
+      "body": "Lorem ipsum Triforce sit amet, Linkus Hyruleus tempus Ganondorf.",
+      "priority": "high",
+      "user_email": "peach@netninja.dev",
+      "image": "home.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Special burger",
+      "body": "Lorem ipsum Triforce sit amet, Linkus Hyruleus tempus Ganondorf.",
+      "priority": "medium",
+      "user_email": "mario@netninja.dev",
+      "image": "home.jpg"
+    },
+    {
+      "id": "1",
+      "title": "Meatloaf",
+      "body": "Lorem ipsum Triforce sit amet, Linkus Hyruleus tempus Ganondorf.",
+      "priority": "low",
+      "image": "home.jpg"
+    },
+    {
+      "id": "2",
+      "title": "pasta",
+      "body": "Lorem ipsum Triforce sit amet, Linkus Hyruleus tempus Ganondorf.",
+      "priority": "medium",
+      "user_email": "mario@netninja.dev",
+      "image": "s.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Chicago Deep-Dish",
+      "body": "Lorem ipsum Triforce sit amet, Linkus Hyruleus tempus Ganondorf.",
+      "priority": "high",
+      "user_email": "peach@netninja.dev",
+      "image": "f.jpg"
+    }
+  ],
+  "user": [
+    {
+      "id": "adminuser",
+      "name": "Nihira",
+      "password": "admin",
+      "email": "nihiratechiees@gmail.com",
+      "phone": "8989898989",
+      "role": "admin"
+    },
+    {
+      "id": "ntuser",
+      "name": "Fullname",
+      "password": "ntuser",
+      "email": "email@email.com",
+      "phone": "56778889989"
+    },
+    {
+      "id": "sitra ",
+      "name": "nbm",
+      "password": "Sitra@0468",
+      "email": "bmjjhugfc@gmail.com",
+      "phone": "246686565"
+    },
+    {
+      "id": "sitra ",
+      "name": "nbm",
+      "password": "Sitra@0468",
+      "email": "bmjjhugfc@gmail.com",
+      "phone": "246686565"
+    },
+    {
+      "id": "sitra ",
+      "name": "nbm",
+      "password": "Sitra@0468",
+      "email": "bmjjhugfc@gmail.com",
+      "phone": "246686565"
+    },
+    {
+      "id": "mk",
+      "name": "mk",
+      "password": "02314657",
+      "email": "mk",
+      "phone": "0916465879"
+    },
+    {
+      "id": "ml",
+      "name": "ml",
+      "password": "089456",
+      "email": "ml",
+      "phone": "08645123"
+    },
+    {
+      "id": "mo",
+      "name": "mo",
+      "password": "123151",
+      "email": "mo",
+      "phone": "0456"
+    }
+  ],
+  "roleaccess": [
+    {
+      "role": "admin",
+      "menu": "customer",
+      "haveadd": true,
+      "haveedit": true,
+      "havedelete": true,
+      "id": "2b73"
+    },
+    {
+      "role": "admin",
+      "menu": "supplier",
+      "haveadd": true,
+      "haveedit": true,
+      "havedelete": true,
+      "id": "29de"
+    },
+    {
+      "role": "user",
+      "menu": "customer",
+      "haveadd": false,
+      "haveedit": false,
+      "havedelete": false,
+      "id": "07e5"
+    },
+    {
+      "role": "user1",
+      "menu": "customer",
+      "haveadd": false,
+      "haveedit": false,
+      "havedelete": false,
+      "id": "88ca"
+    }
+  ],
+  "customer": [
+    {
+      "code": 1,
+      "name": "Chris",
+      "email": "chris@in.com",
+      "id": "b771"
+    },
+    {
+      "code": 2,
+      "name": "Lynn",
+      "email": "lynn@in.com",
+      "id": "e635"
+    },
+    {
+      "code": 3,
+      "name": "Tim",
+      "email": "tim@in.com",
+      "id": "fc94"
+    },
+    {
+      "code": 4,
+      "name": "Southee",
+      "email": "southee@in.com",
+      "id": "dc13"
+    },
+    {
+      "code": 5,
+      "name": "boult",
+      "email": "bould@in.com",
+      "id": "2c3f"
+    }
+  ]
+}
